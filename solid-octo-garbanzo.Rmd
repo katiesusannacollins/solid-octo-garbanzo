@@ -38,4 +38,5 @@ ggplot(d_vols, aes(vol_mm3, price, colour=cut))+
 ```
 Price does increase with volume but grade of diamond is not dependent on size.
 
+
 ![spinningchicken](spinningchicken.gif)
