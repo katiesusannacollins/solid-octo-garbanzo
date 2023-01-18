@@ -1,3 +1,9 @@
+# Ignore docs etc
+*.ppt
+*.docx
+*.doc
+*.gif
+
 # History files
 .Rhistory
 .Rapp.history
